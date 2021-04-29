@@ -1,17 +1,17 @@
 # loan_status_prediction
-prediction of loan approval status base on applicant details.
+To predict the Loan status and impact of the incident raised by the customer.
 
-# skewnwess :
-to make distribution or skewness normal we can remove outliers or can apply different transformations (eg. log , square, etc..).
+# Skewnwess :
+To make the distribution or skewness normal, we can remove outliers or can apply different transformations (eg. log , square, etc..).
 
 # EDA :
-in EDA analysis has been done on each feature to get idea about how it has impact on target variable.
+In EDA, analysis has been done on each feature to get idea about how it has impact on target variable.
 
 # Feature Engineering :
-in FE part, we made few new features like TotalIncome, EMi and Capacity to get relevent idea to predict loan status consigering interest rate of 7.5 %.
+In FE part, we made few new features like TotalIncome, EMI and Capacity to get relevent idea to predict loan status consigering interest rate of 7.5 %.
 
 # Model Building :
-in this project of model building we used 10 different algorithms 
+In this project of model building we used 10 different algorithms 
 1), Logistic Regression
 2), Decision Tree
 3), Random Forest
@@ -24,4 +24,4 @@ in this project of model building we used 10 different algorithms
 10), Extra Tree Classifier
 
 # Model Evaluation :
-After appying above algorithms, i got accuracy of 79.16 % while checked on Analytics Vidhya's Loan status prediction project.
+After appylying above algorithms, we got the accuracy of 79.16 % while checked on Analytics Vidhya's Loan status prediction project.
